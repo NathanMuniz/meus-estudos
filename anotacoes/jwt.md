@@ -1,3 +1,8 @@
 ## JSON Web Token 
 
-- JSON Web Token (JWT, pronounced /dʒɒt/, same as the word "jot"[1]) is a proposed Internet standard for creating data with optional signature and/or optional encryption whose payload holds JSON that asserts some number of claims. The tokens are signed either using a private secret or a public/private key.
+- JWT é um padrão que é usado para criar dados que podem conter assinatura, no qual podem ser validados, e pode conter dados incripitados, que podem ser
+
+- Exemplo
+    - O server providencia um Token, que diz que o usuário está logado como administrador para o client. O client então pode provar que ele é administrador usando esse token. O token recebe uma assinatura, normalmente do servidor, que pode ser certificado pela outra parte, o client.
+
+- Estrutura
