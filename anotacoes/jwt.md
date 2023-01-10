@@ -26,7 +26,7 @@
         }
         ```
         
-        **************************************************************Campos com delcarações padrões: 7 c**************************************************************ampos padrões que são comunmente incluendos em tokens. ex: (iat)
+        **************************************************************Campos com declarações padrões: 7 c**************************************************************ampos padrões que são comunmente incluendos em tokens. ex: (iat)
         
         ****************************************Campos customizados:**************************************** São incluindos dependendo do propósito do token.
         ex: (loggedInAs)
@@ -36,3 +36,7 @@
         Garante a validade dos token. 
         
         **********************Estrutura:********************** encoded header + “.” + encoded payload
+        
+    
+    - Use
+        - Diferente do abordagem tradicional, quando um usuário consegue logar com suas credenciais, ele Json Web Token, será retornado e devera ser salvo localmente, seja no local storage ou session storage.
