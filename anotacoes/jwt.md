@@ -3,7 +3,7 @@
 - JWT é um padrão que é usado para criar dados que podem conter assinatura, no qual podem ser validados, e pode conter dados encriptados, que podem ajudam na segurança da passagem de dados no formato JSON.
 - JWT é um recurso para autorização, ou seja, ele é usado para autorizar um usuário autenticado a utilizar recurso que requer tal autorização.
 
-(autorização vs autenticação) [anotacoes/autorizacao-autenticacao]
+[autorização and autenticação](anotacoes/autorizacao-autenticacao.md)
 
 - Exemplo
     - O server providencia um Token, que diz que o usuário está logado como administrador para o client. O client então pode provar que ele é administrador usando esse token. O token recebe uma assinatura, normalmente do servidor, que pode ser certificado pela outra parte, o client.
