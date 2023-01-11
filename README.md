@@ -3,4 +3,6 @@ Repositório para compartilhar um pouco do que estudei, para ajudar novos devs a
 
 ## Tecnolgias
 - [JWT (JSON Web Token)](anotacoes/jwt.md) 
-- [autorização and autenticação](anotacoes/autorizacao-autenticacao.md)
+- [Autorização and Autenticação](anotacoes/autorizacao-autenticacao.md)
+- [ORM](anotacoes/ORM.md)
+- [TypeScript](anotacoes/typescript.md)
