@@ -6,4 +6,4 @@ Repositório para compartilhar um pouco do que estudei, para ajudar novos devs a
 - [Autorização and Autenticação](anotacoes/autorizacao-autenticacao.md)
 - [ORM](anotacoes/ORM.md)
 - [TypeScript](anotacoes/typescript.md)
-- [Python-thread](https://github.com/NathanMuniz/python-threading/README.md)
+- [Python-thread]([https://github.com/NathanMuniz/python-threading/README.md](https://github.com/NathanMuniz/python-threading#readme))
